@@ -19,7 +19,7 @@ A list of awesome papers (beyond MMD-GANs & MMD-VAE) and resources on Kernel Met
 
 ## Tutorials
 - [Lectures by Julien Mairal](https://www.youtube.com/channel/UCotztBOmGVl9pPGIN4YqcRw/videos)
-- [Large Scale Kernel Methods](https://maelfabien.github.io/machinelearning/largescale/#)
+- Blog on [Large Scale Kernel Methods](https://maelfabien.github.io/machinelearning/largescale/#)
 
 ## Libraries for Computational Efficiency
 - [KeOps](https://www.kernel-operations.io/keops/index.html)
